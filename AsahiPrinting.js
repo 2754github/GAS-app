@@ -10,7 +10,7 @@ function doPost(e) {
   const formatedDate = Utilities.formatDate(date, "Asia/Tokyo", "yyyyMM");
   const ps =
     json.type === "終了"
-      ? `今月の作業遂行表はこちら\n${ssLink}\nの「${formatedDate}」のシートから確認できます。`
+      ? `今月の業務遂行表はこちら\n${ssLink}\nの「${formatedDate}」のシートからご確認いただけます。`
       : "";
 
   const toUser1 = "xxxxx";
