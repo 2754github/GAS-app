@@ -20,9 +20,9 @@ Todo リストを管理してくれる猫。（LINE Bot）
 
 ### TaklabBot
 
-自分の所属していた[**研究室(TakLAB)**](http://www.taklab.org/)の Slack に導入した GitHub の push を検知して Slack のチャンネルに流す Slack Bot。
+自分の所属していた[**研究室(TakLAB)**](http://www.taklab.org/)の Slack に導入した Slack Bot。
 
-単に GitHub と Slack を連携させるだけでも同様のことができるけど、通知の文面が分かりにくいため、この Bot が分かりやすく言い換えます！
+リポジトリへの push を検知して通知したり、オンラインゼミの会場URLを教えてくれる。
 
 ### AsahiPrinting
 
